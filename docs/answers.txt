@@ -1,5 +1,5 @@
 Git Lab Tutorials Date: October 14, 2026
-GitHub Account Setup Date: Already had GitHub previously
+GitHub Account Setup Date: Created around 07/2024
 
 
 1. Paste the console output saved at the end of step 3.C.
